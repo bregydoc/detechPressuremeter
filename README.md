@@ -10,7 +10,7 @@ The purpose of this device is to create dermal ulcers in a very initial state, a
 
 ## Connection Diagram
 
-<img src="./pressuremeter_diagram.png" alt="Connection diagram" width="500" />
+<img src="./pressuremeter_diagram.png" alt="Connection diagram" width="550" />
 
 
 ## Hardware components
